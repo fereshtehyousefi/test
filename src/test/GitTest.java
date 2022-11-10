@@ -6,5 +6,6 @@ public class GitTest {
 		System.out.println("this is test");
 
 	}
-
+public void test() {
+	system.out.println("this is git pulkl);
 }
