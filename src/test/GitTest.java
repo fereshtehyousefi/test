@@ -7,5 +7,6 @@ public class GitTest {
 
 	}
 public void test() {
-	system.out.println("this is git pulkl);
+	system.out.println("this is git pulkl");
+}
 }
